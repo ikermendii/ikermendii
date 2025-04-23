@@ -28,9 +28,9 @@ Desarrollador blockchain con experiencia en tecnologías web y descentralizadas.
 ### Bases de Datos & ORM
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySql]
-![Oracle]
-![SqlServer]
+![MySql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SqlServer](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### DevOps & Herramientas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -53,11 +53,11 @@ Plataforma de gestión basada en tecnología blockchain utilizando Hyperledger B
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ikermendii&layout=compact&theme=dark)
 
 ## 🎓 Formación
-- **Coding Basics** - CodeCrypto Academy: [(https://codecrypto.academy/certificates/certificado-coding-basics-2/?course_id=1513&cert-nonce=1db8b55aa4)](#)
-- **Coding Fundamentals** - CodeCrypto Academy: [(https://codecrypto.academy/certificates/certificado-coding-fundamentals-2/?course_id=42633&cert-nonce=20939a474b)](#)
+- **Coding Basics** - CodeCrypto Academy: [[Certificadod](https://codecrypto.academy/certificates/certificado-coding-basics-2/?course_id=1513&cert-nonce=1db8b55aa4)](#)
+- **Coding Fundamentals** - CodeCrypto Academy: [[Certificadod](https://codecrypto.academy/certificates/certificado-coding-fundamentals-2/?course_id=42633&cert-nonce=20939a474b)](#)
 
 ## 📫 Contacto
-- LinkedIn: [[Tu perfil de LinkedIn](https://www.linkedin.com/in/iker-mendinueta-web3/)](#)
+- LinkedIn: [[Iker Mendinueta](https://www.linkedin.com/in/iker-mendinueta-web3/)](#)
 - Email: [ikermendii@gmail.com](#)
 
 ---
