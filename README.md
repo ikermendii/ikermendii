@@ -54,11 +54,11 @@ Desarrollador blockchain con experiencia en tecnologías web y descentralizadas.
 
 ### 📁 Proyectos Destacados
 
-#### [🔗 Proyecto PFM Web2.0](#)
+#### ![🔗 Proyecto PFM Web2.0](https://github.com/ikermendii/pfm-web2-oct24-1.git)
 Aplicación e-commerce moderna desarrollada con Next.js que incluye sistema de autenticación JWT, gestión de usuarios, carrito de compras y pasarela de pagos RedSys.
 **Tecnologías**: Next.js, React, Prisma, JWT, Tailwind CSS, Vercel
 
-#### [🔗 Proyecto PFM Web2.5 - Sistema de gestión de Redes Privadas BlockChain](#)
+#### ![🔗 Proyecto PFM Web2.5 - Sistema de gestión de Redes Privadas BlockChain](https://github.com/ikermendii/ikermendii-pfm-web2.5-feb25.git)
 Plataforma de gestión basada en tecnología blockchain utilizando Hyperledger Besu para entornos privados. Incluye desarrollo de scripts personalizados para automatización y gestión de procesos de creación de redes.
 **Tecnologías**: Hyperledger Besu, Next.js, TypeScript, Node.js, Docker, Shell/Bash Scripts, Jest
 
@@ -67,11 +67,11 @@ Plataforma de gestión basada en tecnología blockchain utilizando Hyperledger B
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ikermendii&layout=compact&theme=dark)
 
 ### 🎓 Formación
-- **Coding Basics** - CodeCrypto Academy: [[Certificadod](https://codecrypto.academy/certificates/certificado-coding-basics-2/?course_id=1513&cert-nonce=1db8b55aa4)](#)
-- **Coding Fundamentals** - CodeCrypto Academy: [[Certificadod](https://codecrypto.academy/certificates/certificado-coding-fundamentals-2/?course_id=42633&cert-nonce=20939a474b)](#)
+- **Coding Basics** - CodeCrypto Academy: ![Certificadod](https://codecrypto.academy/certificates/certificado-coding-basics-2/?course_id=1513&cert-nonce=1db8b55aa4)
+- **Coding Fundamentals** - CodeCrypto Academy: ![Certificadod](https://codecrypto.academy/certificates/certificado-coding-fundamentals-2/?course_id=42633&cert-nonce=20939a474b)
 
 ### 📫 Contacto
-- LinkedIn: [[Iker Mendinueta](https://www.linkedin.com/in/iker-mendinueta-web3/)](#)
+- LinkedIn: ![Iker Mendinueta](https://www.linkedin.com/in/iker-mendinueta-web3/)
 - Email: [ikermendii@gmail.com](#)
 
 ---
@@ -121,11 +121,11 @@ Blockchain developer with experience in web and decentralized technologies. Spec
 
 ### 📁 Featured Projects
 
-#### [🔗 Project FMP Web 2.0 Store](#)
+#### ![🔗 Project FMP Web 2.0 Store](https://github.com/ikermendii/pfm-web2-oct24-1.git)
 Modern e-commerce application developed with Next.js that includes JWT authentication system, user management, shopping cart, and payment gateway with RedSys.
 **Technologies**: Next.js, React, Prisma, JWT, Tailwind CSS, Vercel
 
-#### [🔗 Project FMP Web2.5 - Blockchain Private Networks Management System](#)
+#### ![🔗 Project FMP Web2.5 - Blockchain Private Networks Management System](https://github.com/ikermendii/ikermendii-pfm-web2.5-feb25.git)
 Management platform based on blockchain technology using Hyperledger Besu for private environments. Includes development of custom scripts for process automation and management of networks creation.
 **Technologies**: Hyperledger Besu, Next.js, JavaScript, Node.js, Docker, Kubernetes, Shell/Bash Scripts, Jest
 
@@ -134,11 +134,11 @@ Management platform based on blockchain technology using Hyperledger Besu for pr
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikermendii&layout=compact&theme=dark)
 
 ### 🎓 Education
-- **Coding Basics** - CodeCrypto Academy: [[Certificate](https://codecrypto.academy/certificates/certificado-coding-basics-2/?course_id=1513&cert-nonce=1db8b55aa4)](#)
-- **Coding Fundamentals** - CodeCrypto Academy: [[Certificate](https://codecrypto.academy/certificates/certificado-coding-fundamentals-2/?course_id=42633&cert-nonce=20939a474b)](#)
+- **Coding Basics** - CodeCrypto Academy: ![Certificadod](https://codecrypto.academy/certificates/certificado-coding-basics-2/?course_id=1513&cert-nonce=1db8b55aa4)
+- **Coding Fundamentals** - CodeCrypto Academy: ![Certificadod](https://codecrypto.academy/certificates/certificado-coding-fundamentals-2/?course_id=42633&cert-nonce=20939a474b)
 
 ### 📫 Contact
-- LinkedIn: [[Iker Mendinueta](https://www.linkedin.com/in/iker-mendinueta-web3/)](#)
+- LinkedIn: ![Iker Mendinueta](https://www.linkedin.com/in/iker-mendinueta-web3/)
 - Email: [ikermendii@gmail.com](#)
 
 ---
